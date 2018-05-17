@@ -6,6 +6,8 @@ OCR_TIANCHI_ICPR
 
 ### Usage: 
 
+- Download well-trained model from [here](https://www.floydhub.com/api/v1/resources/D9J7q8XFJNWdG4SjoZT6ag?content=true&download=true)
+
 - Run the text_detector.ipynb
 
 ### Results:
