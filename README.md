@@ -6,10 +6,14 @@ OCR_TIANCHI_ICPR
 
 ### Usage: 
 
-- Download well-trained model from [here](https://www.floydhub.com/api/v1/resources/D9J7q8XFJNWdG4SjoZT6ag?content=true&download=true)
+- Download well-trained model from [here](https://www.floydhub.com/api/v1/resources/D9J7q8XFJNWdG4SjoZT6ag?content=true&download=true).
 
-- Run the text_detector.ipynb
+- Run the text_detector.ipynb in the single_ctpn.
+
+### Samples:
+
+![sample_1](./samples/sample_1.png)![](./samples/sample_2.png)
 
 ### Results:
 
-![sample_0](./results/sample_0.png)![sample_0](./results/sample_1.png)
+$ Anchor: (x1, y1, x2, y2, x3, y3, x4, y4) $ for each text region will be stored in the results folder, where the names of txt files are the corresponding image files.
